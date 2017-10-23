@@ -40,6 +40,6 @@ window.onload = function(){
 	maze.onmouseleave = function(){
 		gameOver();
 	}
-
+	//Accident
 }
 
